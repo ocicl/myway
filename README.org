@@ -1,0 +1,9 @@
+* myway
+
+Sinatra-compatible URL routing library for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/fukamachi/myway.git |
+| commit  | 1350b45                                    |
+| systems | myway                                      |
+|---------+--------------------------------------------|
